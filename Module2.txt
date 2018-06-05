@@ -7,4 +7,12 @@ Line 3
 Line 1 in develop
 
 Line 2 in develop
+
 Additional commit to master
+
+
+1st additional commit
+
+2nd additional commit
+
+Cherry 1
